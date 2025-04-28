@@ -38,10 +38,11 @@ Fitnesoo/
 ---
 
 ## 📷 Live
-
-[Live_Project](https://varunb-asm.github.io/Project-1/)
-
-
+---
+| 🔥 **Live Preview** 🔥 |
+|:---------------------:|
+| ![image](https://github.com/user-attachments/assets/120b21d9-a864-4206-95dd-bb58af0ea204) |
+| [Live-Project](https://varunb453.github.io/Fitnesoo/) |
 ---
 
 ## 🚀 How to Use
